@@ -83,3 +83,21 @@ Atau jalankan `main.ipynb` untuk download model otomatis.
 ## 📜 License
 
 MIT License — lihat [LICENSE](LICENSE).
+---
+
+## 🎯 Demo & Results
+
+### Detection Sample
+
+![Detection Result](reports/figures/detection-sample.png)
+
+*Contoh hasil deteksi objek real-time menggunakan YOLOv3-tiny*
+
+### Performance Notes
+
+| Aspect | Detail |
+|---|---|
+| FPS (approx) | TBD |
+| mAP | TBD |
+
+> Screenshot dari hasil running `detect.py` bisa ditambahkan ke `reports/figures/`
